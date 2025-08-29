@@ -4,3 +4,4 @@
 - makanan
   - bakso
   - mie ayam
+  - sapi
