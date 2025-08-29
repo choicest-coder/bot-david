@@ -3,4 +3,7 @@
 - jiah
 - makanan
   - mie kuah
-  - mie goreng 
+  - mie goreng
+  - bakso
+  - mie ayam
+  - sapi
